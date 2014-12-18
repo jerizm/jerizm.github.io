@@ -1,0 +1,2423 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "notifications": [{
+        "type": "notificationTray",
+        "item": {
+            "unreadCount": 1
+        }
+    }],
+    "response": {
+        "checkins": {
+            "count": 2471,
+            "items": [{
+                "id": "54732e2d498e41e06f41b07d",
+                "createdAt": 1416834605,
+                "type": "checkin",
+                "timeZoneOffset": -300,
+                "venue": {
+                    "id": "43a52546f964a520532c1fe3",
+                    "name": "John F. Kennedy International Airport (JFK)",
+                    "contact": {
+                        "phone": "7182444444",
+                        "formattedPhone": "(718) 244-4444",
+                        "twitter": "ny_njairports",
+                        "facebook": "102286653195916",
+                        "facebookName": "John F. Kennedy International Airport"
+                    },
+                    "location": {
+                        "address": "at JFK Access Rd",
+                        "lat": 40.645089355976346,
+                        "lng": -73.7845230102539,
+                        "postalCode": "11430",
+                        "cc": "US",
+                        "neighborhood": "Jamai",
+                        "city": "New York",
+                        "state": "NY",
+                        "country": "United States",
+                        "formattedAddress": ["at JFK Access Rd", "New York, NY 11430"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1ed931735",
+                        "name": "Airport",
+                        "pluralName": "Airports",
+                        "shortName": "Airport",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/airport_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": true,
+                    "stats": {
+                        "checkinsCount": 1122079,
+                        "usersCount": 345538,
+                        "tipCount": 2526
+                    },
+                    "url": "http:\/\/www.panynj.gov\/airports\/jfk.html",
+                    "like": false,
+                    "venuePage": {
+                        "id": "63652169"
+                    }
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5473a933498e0f577565e373",
+                "createdAt": 1416866099,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "53110ea1e4b03443dd848ad7",
+                    "name": "Costa Rica",
+                    "contact": {},
+                    "location": {
+                        "lat": 9.979129030010562,
+                        "lng": -84.0619573126382,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "530e33ccbcbc57f1066bbff7",
+                        "name": "Country",
+                        "pluralName": "Countries",
+                        "shortName": "Country",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 3594,
+                        "usersCount": 1291,
+                        "tipCount": 4
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "52a659800000000000000012",
+                    "name": "Rain cloud with sad face",
+                    "image": {
+                        "prefix": "https:\/\/irs0.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/rain_73f755.png"
+                    },
+                    "effects": [{
+                        "type": "supersize",
+                        "detail": {
+                            "prefix": "https:\/\/irs0.4sqi.net\/img\/sticker\/",
+                            "sizes": [150],
+                            "name": "\/rain_e86e66.png"
+                        }
+                    }],
+                    "stickerType": "default",
+                    "pickerPosition": {
+                        "page": 0,
+                        "index": 9
+                    }
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5473c9ec498e5135d8330fc6",
+                "createdAt": 1416874476,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4cec6808f368b1f7654675f7",
+                    "name": "Monteverde Villa Lodge",
+                    "contact": {},
+                    "location": {
+                        "lat": 10.31455966360007,
+                        "lng": -84.8290009590336,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1fa931735",
+                        "name": "Hotel",
+                        "pluralName": "Hotels",
+                        "shortName": "Hotel",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/hotel_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 55,
+                        "usersCount": 39,
+                        "tipCount": 5
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5473e239498eadeef0ed5dc6",
+                "createdAt": 1416880697,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4d28dc0ef7a9224bc420f99f",
+                    "name": "Morpho's",
+                    "contact": {
+                        "phone": "+50626457373",
+                        "formattedPhone": "+506 2645 7373"
+                    },
+                    "location": {
+                        "address": "50 metros este del Banco Nacional",
+                        "crossStreet": "A 20 metros del Banco Popular",
+                        "lat": 10.317334188025356,
+                        "lng": -84.82342408030709,
+                        "cc": "CR",
+                        "city": "Monte Verde",
+                        "state": "Puntarenas",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["50 metros este del Banco Nacional (A 20 metros del Banco Popular)", "Monte Verde", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1c4941735",
+                        "name": "Restaurant",
+                        "pluralName": "Restaurants",
+                        "shortName": "Restaurant",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 404,
+                        "usersCount": 277,
+                        "tipCount": 28
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "53fe77d24b9048855b3648b4",
+                    "name": "Knife and fork",
+                    "image": {
+                        "prefix": "https:\/\/irs3.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/knifefork_7f7e89.png"
+                    },
+                    "stickerType": "unlockable",
+                    "pickerPosition": {
+                        "page": 1,
+                        "index": 16
+                    },
+                    "teaseText": "Help yourself to this locally-sourced, small-batch, grass-fed, artisinal sticker."
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5474b77f498e5e198ad9270a",
+                "createdAt": 1416935295,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4b4639a0f964a5209a1a26e3",
+                    "name": "Selvatura",
+                    "contact": {},
+                    "location": {
+                        "address": "Guanacaste",
+                        "lat": 10.342157371692247,
+                        "lng": -84.79851753443957,
+                        "cc": "CR",
+                        "city": "Hacienda Monteverde",
+                        "state": "Guanacaste",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Guanacaste", "Hacienda Monteverde", "Costa Rica"]
+                    },
+                    "categories": [],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 52,
+                        "usersCount": 47,
+                        "tipCount": 3
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5474b78c498eb16df2136e99",
+                "createdAt": 1416935308,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4bae5c82f964a520e1a73be3",
+                    "name": "Selvatura Park",
+                    "contact": {
+                        "twitter": "selvaturapark"
+                    },
+                    "location": {
+                        "lat": 10.320786437029895,
+                        "lng": -84.81343016746618,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d163941735",
+                        "name": "Park",
+                        "pluralName": "Parks",
+                        "shortName": "Park",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/park_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 335,
+                        "usersCount": 317,
+                        "tipCount": 14
+                    },
+                    "url": "http:\/\/www.selvatura.com",
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5474dab0498e58e9a09308a9",
+                "createdAt": 1416944304,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4d017fdd527e236ad833c385",
+                    "name": "Tree House Restaurante & Cafe",
+                    "contact": {
+                        "phone": "+50626455751",
+                        "formattedPhone": "+506 2645 5751"
+                    },
+                    "location": {
+                        "crossStreet": "Downtown Santa Elena",
+                        "lat": 10.317434,
+                        "lng": -84.824204,
+                        "cc": "CR",
+                        "city": "Monte Verde",
+                        "state": "Puntarenas",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Monte Verde", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1c4941735",
+                        "name": "Restaurant",
+                        "pluralName": "Restaurants",
+                        "shortName": "Restaurant",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": true,
+                    "stats": {
+                        "checkinsCount": 969,
+                        "usersCount": 854,
+                        "tipCount": 32
+                    },
+                    "like": false,
+                    "venuePage": {
+                        "id": "39292927"
+                    },
+                    "storeId": ""
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "53fe77d24b9048855b3648b4",
+                    "name": "Knife and fork",
+                    "image": {
+                        "prefix": "https:\/\/irs3.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/knifefork_7f7e89.png"
+                    },
+                    "stickerType": "unlockable",
+                    "pickerPosition": {
+                        "page": 1,
+                        "index": 16
+                    },
+                    "teaseText": "Help yourself to this locally-sourced, small-batch, grass-fed, artisinal sticker."
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "54752570498e804be8f56f70",
+                "createdAt": 1416963440,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4e0a686222714194998e5f63",
+                    "name": "Frog Pond of Monteverde",
+                    "contact": {},
+                    "location": {
+                        "address": "Cerca del Centro Comercial",
+                        "lat": 10.315269156456777,
+                        "lng": -84.82454968621049,
+                        "cc": "CR",
+                        "city": "Monte Verde",
+                        "state": "Puntarenas",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Cerca del Centro Comercial", "Monte Verde", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4d4b7105d754a06379d81259",
+                        "name": "Travel & Transport",
+                        "pluralName": "Travel & Transport",
+                        "shortName": "Travel",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 96,
+                        "usersCount": 89,
+                        "tipCount": 2
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547542e5498e594d51bdaa3e",
+                "createdAt": 1416970981,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4cfe79affeec6dcbd6325836",
+                    "name": "Mar y Tierra",
+                    "contact": {},
+                    "location": {
+                        "address": "Ruta 606",
+                        "lat": 10.318036390063726,
+                        "lng": -84.82397415294511,
+                        "cc": "CR",
+                        "city": "Monte Verde",
+                        "state": "Puntarenas",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Ruta 606", "Monte Verde", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1ce941735",
+                        "name": "Seafood Restaurant",
+                        "pluralName": "Seafood Restaurants",
+                        "shortName": "Seafood",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/seafood_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 25,
+                        "usersCount": 25,
+                        "tipCount": 1
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "53f637554b901073877d7613",
+                    "name": "Hungry shark face",
+                    "image": {
+                        "prefix": "https:\/\/irs3.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/hungry_f7ac16.png"
+                    },
+                    "stickerType": "unlockable",
+                    "pickerPosition": {
+                        "page": 0,
+                        "index": 4
+                    },
+                    "teaseText": "Nom!"
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "54760487498e045cda4f98f5",
+                "createdAt": 1417020551,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "501c3f1be4b09ed2443efee4",
+                    "name": "El Trapiche Tour",
+                    "contact": {},
+                    "location": {
+                        "address": "Monteverde",
+                        "lat": 10.327850353018738,
+                        "lng": -84.83854913783858,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Monteverde", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d162941735",
+                        "name": "Other Great Outdoors",
+                        "pluralName": "Other Great Outdoors",
+                        "shortName": "Other Outdoors",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/outdoors_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 54,
+                        "usersCount": 54,
+                        "tipCount": 3
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5476220f498e91611c8833cc",
+                "createdAt": 1417028111,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4f5a7c81e4b09f0f96f1deca",
+                    "name": "Taco Taco",
+                    "contact": {},
+                    "location": {
+                        "lat": 10.3175902330764,
+                        "lng": -84.8236125317177,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d151941735",
+                        "name": "Taco Place",
+                        "pluralName": "Taco Places",
+                        "shortName": "Tacos",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/taco_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 204,
+                        "usersCount": 176,
+                        "tipCount": 12
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "54772fb1498e3806e3d6c241",
+                "createdAt": 1417097137,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4d1147dc90d0a143c5929c09",
+                    "name": "Hotel Arenal Manoa",
+                    "contact": {
+                        "phone": "+50624791111",
+                        "formattedPhone": "+506 2479 1111"
+                    },
+                    "location": {
+                        "lat": 10.501821428835912,
+                        "lng": -84.67849731445312,
+                        "cc": "CR",
+                        "city": "La Fortuna",
+                        "state": "Alajuela",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["La Fortuna", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1fa931735",
+                        "name": "Hotel",
+                        "pluralName": "Hotels",
+                        "shortName": "Hotel",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/hotel_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 812,
+                        "usersCount": 527,
+                        "tipCount": 20
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "54775333498ef76dfceef23b",
+                "createdAt": 1417106227,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4d93971584a6a35d014845b8",
+                    "name": "La Fortuna",
+                    "contact": {},
+                    "location": {
+                        "address": "La Fortuna",
+                        "lat": 10.471016469176517,
+                        "lng": -84.64455127716064,
+                        "postalCode": "4417",
+                        "cc": "CR",
+                        "city": "La Fortuna",
+                        "state": "Alajuela",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["La Fortuna", "4417 La Fortuna", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d162941735",
+                        "name": "Other Great Outdoors",
+                        "pluralName": "Other Great Outdoors",
+                        "shortName": "Other Outdoors",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/outdoors_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 10523,
+                        "usersCount": 3885,
+                        "tipCount": 38
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5477853d498efdd2bccc26c9",
+                "createdAt": 1417119037,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "50086e8de4b018497f917750",
+                    "name": "Proyecto Asis",
+                    "contact": {},
+                    "location": {
+                        "lat": 10.378396698747823,
+                        "lng": -84.5429384971759,
+                        "cc": "CR",
+                        "city": "Jabillos",
+                        "state": "Alajuela",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Jabillos", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4e52d2d203646f7c19daa8ae",
+                        "name": "Animal Shelter",
+                        "pluralName": "Animal Shelters",
+                        "shortName": "Animal Shelter",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/animalshelter_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 32,
+                        "usersCount": 31,
+                        "tipCount": 1
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "52a659800000000000000019",
+                    "name": "Unicorn",
+                    "image": {
+                        "prefix": "https:\/\/irs0.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/unicorn_e42fad.png"
+                    },
+                    "effects": [{
+                        "type": "supersize",
+                        "detail": {
+                            "prefix": "https:\/\/irs0.4sqi.net\/img\/sticker\/",
+                            "sizes": [150],
+                            "name": "\/unicorn_1a19e9.png"
+                        }
+                    }],
+                    "stickerType": "default",
+                    "pickerPosition": {
+                        "page": 0,
+                        "index": 23
+                    }
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5477c6ff498e1b420f8d16f9",
+                "createdAt": 1417135871,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4c6f4461d97fa14369b9f2ca",
+                    "name": "La Choza De Laurel",
+                    "contact": {},
+                    "location": {
+                        "lat": 10.470933849465032,
+                        "lng": -84.64832366338003,
+                        "cc": "CR",
+                        "city": "La Fortuna",
+                        "state": "Alajuela",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["La Fortuna", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d11e941735",
+                        "name": "Cocktail Bar",
+                        "pluralName": "Cocktail Bars",
+                        "shortName": "Cocktail",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/cocktails_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 640,
+                        "usersCount": 561,
+                        "tipCount": 20
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "54788686498ecab19105a03d",
+                "createdAt": 1417184902,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "51857dae498ef6090a3477a3",
+                    "name": "Caballeriza Alberto Serrano",
+                    "contact": {},
+                    "location": {
+                        "lat": 10.465880463447421,
+                        "lng": -84.644129109727,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4eb1baf03b7b2c5b1d4306ca",
+                        "name": "Stables",
+                        "pluralName": "Stables",
+                        "shortName": "Stables",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/stable_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 3,
+                        "usersCount": 3,
+                        "tipCount": 0
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "52a659800000000000000019",
+                    "name": "Unicorn",
+                    "image": {
+                        "prefix": "https:\/\/irs0.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/unicorn_e42fad.png"
+                    },
+                    "effects": [{
+                        "type": "supersize",
+                        "detail": {
+                            "prefix": "https:\/\/irs0.4sqi.net\/img\/sticker\/",
+                            "sizes": [150],
+                            "name": "\/unicorn_1a19e9.png"
+                        }
+                    }],
+                    "stickerType": "default",
+                    "pickerPosition": {
+                        "page": 0,
+                        "index": 23
+                    }
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "54789d92498eab0166232e0f",
+                "createdAt": 1417190802,
+                "type": "checkin",
+
+                "entities": [{
+                    "id": "47558447",
+                    "type": "user",
+                    "indices": [5, 8]
+                }],
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4da4bdf97ccc816e3569987b",
+                    "name": "Reserva Catarata de la Fortuna",
+                    "contact": {},
+                    "location": {
+                        "address": "La Fortuna - Catarata Río Fortuna",
+                        "lat": 10.468080829111244,
+                        "lng": -84.66567595965242,
+                        "cc": "CR",
+                        "state": "Alajuela",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["La Fortuna - Catarata Río Fortuna", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "52e81612bcbc57f1066b7a13",
+                        "name": "Nature Preserve",
+                        "pluralName": "Nature Preserves",
+                        "shortName": "Preserve",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/naturepreserve_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 211,
+                        "usersCount": 199,
+                        "tipCount": 9
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5478c33d498edf6a9e44186b",
+                "createdAt": 1417200445,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4d06af710e49721e45617c7f",
+                    "name": "Soda El Rio",
+                    "contact": {},
+                    "location": {
+                        "lat": 10.47061087191512,
+                        "lng": -84.64424662269255,
+                        "cc": "CR",
+                        "city": "La Fortuna",
+                        "state": "Alajuela",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["La Fortuna", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1be941735",
+                        "name": "Latin American Restaurant",
+                        "pluralName": "Latin American Restaurants",
+                        "shortName": "Latin American",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/latinamerican_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 156,
+                        "usersCount": 121,
+                        "tipCount": 10
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "53fe77d24b9048855b3648b4",
+                    "name": "Knife and fork",
+                    "image": {
+                        "prefix": "https:\/\/irs3.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/knifefork_7f7e89.png"
+                    },
+                    "stickerType": "unlockable",
+                    "pickerPosition": {
+                        "page": 1,
+                        "index": 16
+                    },
+                    "teaseText": "Help yourself to this locally-sourced, small-batch, grass-fed, artisinal sticker."
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5478c37f498ec6de5b2f83d3",
+                "createdAt": 1417200511,
+                "type": "checkin",
+
+                "entities": [{
+                    "id": "47558447",
+                    "type": "user",
+                    "indices": [5, 8]
+                }],
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "505d15e5e4b082c6aa000b59",
+                    "name": "Cabinas y Soda El Rio",
+                    "contact": {},
+                    "location": {
+                        "lat": 10.470567968632897,
+                        "lng": -84.64412400046221,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d146941735",
+                        "name": "Deli \/ Bodega",
+                        "pluralName": "Delis \/ Bodegas",
+                        "shortName": "Deli \/ Bodega",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/deli_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 12,
+                        "usersCount": 12,
+                        "tipCount": 0
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "52a65980000000000000001f",
+                    "name": "Sandwich",
+                    "image": {
+                        "prefix": "https:\/\/irs0.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/sub_a6c2db.png"
+                    },
+                    "stickerType": "default",
+                    "pickerPosition": {
+                        "page": 1,
+                        "index": 21
+                    }
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "5479ff24498eedcee06f4a71",
+                "createdAt": 1417281316,
+                "type": "checkin",
+
+                "entities": [{
+                    "id": "47558447",
+                    "type": "user",
+                    "indices": [5, 8]
+                }],
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "52097a0011d2bb0cdf651670",
+                    "name": "Pure Trek Canyoning",
+                    "contact": {},
+                    "location": {
+                        "lat": 10.500196630253368,
+                        "lng": -84.6865663533408,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "50328a4b91d4c4b30a586d6b",
+                        "name": "Rock Climbing Spot",
+                        "pluralName": "Rock Climbing Spots",
+                        "shortName": "Rock Climbing",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/rockclimbing_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 23,
+                        "usersCount": 23,
+                        "tipCount": 0
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547a461d498ec53090455e9e",
+                "createdAt": 1417299485,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4e7e22ff49010ea481bc25f2",
+                    "name": "Bar Rest Mi Rancho",
+                    "contact": {
+                        "phone": "+50624451551",
+                        "formattedPhone": "+506 2445 1551"
+                    },
+                    "location": {
+                        "address": "carretera a Fortuna SC",
+                        "lat": 10.136325997180638,
+                        "lng": -84.47541589611926,
+                        "cc": "CR",
+                        "city": "San Ramon, Angeles",
+                        "state": "Alajuela",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["carretera a Fortuna SC", "San Ramon, Angeles", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1be941735",
+                        "name": "Latin American Restaurant",
+                        "pluralName": "Latin American Restaurants",
+                        "shortName": "Latin American",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/latinamerican_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 344,
+                        "usersCount": 278,
+                        "tipCount": 11
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547a8c58498e1e56ceb69e39",
+                "createdAt": 1417317464,
+                "type": "checkin",
+
+                "entities": [{
+                    "id": "47558447",
+                    "type": "user",
+                    "indices": [5, 8]
+                }],
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4efe691a5c5c51dd2d13450d",
+                    "name": "Pizza Pata",
+                    "contact": {
+                        "phone": "+50627770555",
+                        "formattedPhone": "+506 2777 0555"
+                    },
+                    "location": {
+                        "address": "Frente A La Plaza De Manuel Antonio",
+                        "lat": 9.409925050040215,
+                        "lng": -84.1557891917189,
+                        "cc": "CR",
+                        "city": "Manuel Antonio",
+                        "state": "Puntarenas",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Frente A La Plaza De Manuel Antonio", "Manuel Antonio", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 266,
+                        "usersCount": 199,
+                        "tipCount": 20
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "52a659800000000000000011",
+                    "name": "Slice of pizza",
+                    "image": {
+                        "prefix": "https:\/\/irs0.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/pizza_139174.png"
+                    },
+                    "stickerType": "unlockable",
+                    "pickerPosition": {
+                        "page": 1,
+                        "index": 23
+                    },
+                    "teaseText": "It's pasta-ble you'll unlock this sticker at pizza places!"
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547b0d0a498e560d3e135d90",
+                "createdAt": 1417350410,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4d6fd2c89aac224b7fae32ed",
+                    "name": "Manuel Antonio",
+                    "contact": {},
+                    "location": {
+                        "lat": 9.409740539470278,
+                        "lng": -84.15651559985315,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d162941735",
+                        "name": "Other Great Outdoors",
+                        "pluralName": "Other Great Outdoors",
+                        "shortName": "Other Outdoors",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/outdoors_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 2931,
+                        "usersCount": 2101,
+                        "tipCount": 26
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547b0d1f498ef63fd107a5a0",
+                "createdAt": 1417350431,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4d1d36fee56f6ea865cf591d",
+                    "name": "Villas Oasis",
+                    "contact": {},
+                    "location": {
+                        "lat": 9.409745989587234,
+                        "lng": -84.15495973621574,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1fa931735",
+                        "name": "Hotel",
+                        "pluralName": "Hotels",
+                        "shortName": "Hotel",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/hotel_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 27,
+                        "usersCount": 12,
+                        "tipCount": 5
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547b9998498e594d56bd1c39",
+                "createdAt": 1417386392,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4bc795c993bdeee16a8937ae",
+                    "name": "Gaia Reserve And Hotel Manuel Antonio",
+                    "contact": {
+                        "phone": "+50627779797",
+                        "formattedPhone": "+506 2777 9797",
+                        "twitter": "gaia_hotel"
+                    },
+                    "location": {
+                        "address": "Km 2 7 Manuel Antonio Quepos A",
+                        "lat": 9.41773948514029,
+                        "lng": -84.15688137650639,
+                        "postalCode": "6350",
+                        "cc": "CR",
+                        "city": "Manuel Antonio",
+                        "state": "Puntarenas",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Km 2 7 Manuel Antonio Quepos A", "6350 Manuel Antonio", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d12f951735",
+                        "name": "Resort",
+                        "pluralName": "Resorts",
+                        "shortName": "Resort",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/resort_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 623,
+                        "usersCount": 332,
+                        "tipCount": 13
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547b99aa498e846b16b16ce0",
+                "createdAt": 1417386410,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4c37457ddfb0e21e336baca8",
+                    "name": "La Luna",
+                    "contact": {},
+                    "location": {
+                        "lat": 9.417763,
+                        "lng": -84.1569518,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1be941735",
+                        "name": "Latin American Restaurant",
+                        "pluralName": "Latin American Restaurants",
+                        "shortName": "Latin American",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/latinamerican_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 238,
+                        "usersCount": 124,
+                        "tipCount": 9
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547bd0a3498eedcee1ff25a2",
+                "createdAt": 1417400483,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "51e35084498ed38b56e9908b",
+                    "name": "Ngo",
+                    "contact": {},
+                    "location": {
+                        "lat": 9.409863111192752,
+                        "lng": -84.15623225020869,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d14a941735",
+                        "name": "Vietnamese Restaurant",
+                        "pluralName": "Vietnamese Restaurants",
+                        "shortName": "Vietnamese",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/vietnamese_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 16,
+                        "usersCount": 16,
+                        "tipCount": 0
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "53fe77d24b9048855b3648b4",
+                    "name": "Knife and fork",
+                    "image": {
+                        "prefix": "https:\/\/irs3.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/knifefork_7f7e89.png"
+                    },
+                    "stickerType": "unlockable",
+                    "pickerPosition": {
+                        "page": 1,
+                        "index": 16
+                    },
+                    "teaseText": "Help yourself to this locally-sourced, small-batch, grass-fed, artisinal sticker."
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547c7421498ed5d480f57f6d",
+                "createdAt": 1417442337,
+                "type": "checkin",
+
+                "entities": [{
+                    "id": "47558447",
+                    "type": "user",
+                    "indices": [5, 8]
+                }],
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4c56ded9738e9c743b386d21",
+                    "name": "Parque Nacional Manuel Antonio",
+                    "contact": {},
+                    "location": {
+                        "address": "Manuel Antonio",
+                        "lat": 9.39055256776711,
+                        "lng": -84.14956569671631,
+                        "cc": "CR",
+                        "city": "Quepos",
+                        "state": "Puntarenas",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Manuel Antonio", "Quepos", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "52e81612bcbc57f1066b7a21",
+                        "name": "National Park",
+                        "pluralName": "National Parks",
+                        "shortName": "National Park",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/hikingtrail_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 2994,
+                        "usersCount": 2580,
+                        "tipCount": 48
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547deefb498ece5aa019aadf",
+                "createdAt": 1417539323,
+                "type": "checkin",
+
+                "entities": [{
+                    "id": "47558447",
+                    "type": "user",
+                    "indices": [5, 8]
+                }],
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "529a9b6d498ee72b64f3390c",
+                    "name": "Falafel Bar",
+                    "contact": {},
+                    "location": {
+                        "lat": 9.405629564532187,
+                        "lng": -84.15770050204931,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d115941735",
+                        "name": "Middle Eastern Restaurant",
+                        "pluralName": "Middle Eastern Restaurants",
+                        "shortName": "Middle Eastern",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/middleeastern_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 31,
+                        "usersCount": 30,
+                        "tipCount": 3
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "53fe77d24b9048855b3648b4",
+                    "name": "Knife and fork",
+                    "image": {
+                        "prefix": "https:\/\/irs3.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/knifefork_7f7e89.png"
+                    },
+                    "stickerType": "unlockable",
+                    "pickerPosition": {
+                        "page": 1,
+                        "index": 16
+                    },
+                    "teaseText": "Help yourself to this locally-sourced, small-batch, grass-fed, artisinal sticker."
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547e6cf8498e0a4fe516fad9",
+                "createdAt": 1417571576,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4d6fd2c89aac224b7fae32ed",
+                    "name": "Manuel Antonio",
+                    "contact": {},
+                    "location": {
+                        "lat": 9.409740539470278,
+                        "lng": -84.15651559985315,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d162941735",
+                        "name": "Other Great Outdoors",
+                        "pluralName": "Other Great Outdoors",
+                        "shortName": "Other Outdoors",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/outdoors_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 2931,
+                        "usersCount": 2101,
+                        "tipCount": 26
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547e6db6498e0cbb56160d8b",
+                "createdAt": 1417571766,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "51e5e2fa498e634b4fb7bd5d",
+                    "name": "Fish And Chips",
+                    "contact": {},
+                    "location": {
+                        "lat": 9.406374146808973,
+                        "lng": -84.15752534406825,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4edd64a0c7ddd24ca188df1a",
+                        "name": "Fish & Chips Shop",
+                        "pluralName": "Fish & Chips Shops",
+                        "shortName": "Fish & Chips",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/fishandchips_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 13,
+                        "usersCount": 13,
+                        "tipCount": 2
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547e7044498e4332d45de514",
+                "createdAt": 1417572420,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "51c21034498e80f22532006c",
+                    "name": "El Gato Pescador",
+                    "contact": {},
+                    "location": {
+                        "address": "En Frente A Barba Roja",
+                        "lat": 9.406287849133083,
+                        "lng": -84.15753049578088,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["En Frente A Barba Roja", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1ce941735",
+                        "name": "Seafood Restaurant",
+                        "pluralName": "Seafood Restaurants",
+                        "shortName": "Seafood",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/seafood_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 57,
+                        "usersCount": 46,
+                        "tipCount": 4
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547e7057498e5cabdac6d2d8",
+                "createdAt": 1417572439,
+                "type": "checkin",
+
+                "entities": [{
+                    "id": "47558447",
+                    "type": "user",
+                    "indices": [5, 8]
+                }],
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4b93aeaaf964a520c94c34e3",
+                    "name": "Café Milagro in Manuel Antonio",
+                    "contact": {
+                        "phone": "+50627770794",
+                        "formattedPhone": "+506 2777 0794",
+                        "facebook": "143628809012",
+                        "facebookUsername": "cafemilagro",
+                        "facebookName": "Cafe Milagro"
+                    },
+                    "location": {
+                        "address": "On the road to Manuel Antonio Ntl. Park",
+                        "lat": 9.405871,
+                        "lng": -84.157256,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["On the road to Manuel Antonio Ntl. Park", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1c4941735",
+                        "name": "Restaurant",
+                        "pluralName": "Restaurants",
+                        "shortName": "Restaurant",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": true,
+                    "stats": {
+                        "checkinsCount": 923,
+                        "usersCount": 616,
+                        "tipCount": 38
+                    },
+                    "url": "http:\/\/www.cafemilagro.com",
+                    "like": false,
+                    "storeId": ""
+                },
+                "likes": {
+                    "count": 1,
+                    "groups": [{
+                        "type": "friends",
+                        "count": 1,
+                        "items": [{
+                            "id": "79660",
+                            "firstName": "nina",
+                            "lastName": "e",
+                            "gender": "female",
+                            "relationship": "friend",
+                            "photo": {
+                                "prefix": "https:\/\/irs2.4sqi.net\/img\/user\/",
+                                "suffix": "\/NWTNL2IR1L230QY5.jpg"
+                            }
+                        }]
+                    }],
+                    "summary": "nina e"
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547f0417498e0cbb5660ac26",
+                "createdAt": 1417610263,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4d6fd2c89aac224b7fae32ed",
+                    "name": "Manuel Antonio",
+                    "contact": {},
+                    "location": {
+                        "lat": 9.409740539470278,
+                        "lng": -84.15651559985315,
+                        "cc": "CR",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d162941735",
+                        "name": "Other Great Outdoors",
+                        "pluralName": "Other Great Outdoors",
+                        "shortName": "Other Outdoors",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/outdoors_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 2931,
+                        "usersCount": 2101,
+                        "tipCount": 26
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547f1662498ee8236377eb21",
+                "createdAt": 1417614946,
+                "type": "checkin",
+
+                "entities": [{
+                    "id": "47558447",
+                    "type": "user",
+                    "indices": [5, 8]
+                }],
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4daa3696cda1652a2b8894c1",
+                    "name": "Puente del Río Tárcoles",
+                    "contact": {},
+                    "location": {
+                        "address": "Tárcoles",
+                        "lat": 9.799103028428464,
+                        "lng": -84.60511207580566,
+                        "cc": "CR",
+                        "city": "Garabito",
+                        "state": "Puntarenas",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Tárcoles", "Garabito", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1df941735",
+                        "name": "Bridge",
+                        "pluralName": "Bridges",
+                        "shortName": "Bridge",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/bridge_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 4567,
+                        "usersCount": 2676,
+                        "tipCount": 12
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547f1afb498e8941a9342c7f",
+                "createdAt": 1417616123,
+                "type": "checkin",
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "500188e8e4b062a7b259cbb4",
+                    "name": "El Jardin",
+                    "contact": {
+                        "phone": "+50624287782",
+                        "formattedPhone": "+506 2428 7782"
+                    },
+                    "location": {
+                        "address": "Orotina",
+                        "lat": 9.857951238952097,
+                        "lng": -84.57648373491317,
+                        "cc": "CR",
+                        "city": "San Jerónimo",
+                        "state": "Alajuela",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Orotina", "San Jerónimo", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1c4941735",
+                        "name": "Restaurant",
+                        "pluralName": "Restaurants",
+                        "shortName": "Restaurant",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 713,
+                        "usersCount": 606,
+                        "tipCount": 23
+                    },
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "sticker": {
+                    "id": "52a65980000000000000001f",
+                    "name": "Sandwich",
+                    "image": {
+                        "prefix": "https:\/\/irs0.4sqi.net\/img\/sticker\/",
+                        "sizes": [60, 94],
+                        "name": "\/sub_a6c2db.png"
+                    },
+                    "stickerType": "default",
+                    "pickerPosition": {
+                        "page": 1,
+                        "index": 21
+                    }
+                },
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }, {
+                "id": "547f342e498e254019a9715b",
+                "createdAt": 1417622574,
+                "type": "checkin",
+
+                "entities": [{
+                    "id": "47558447",
+                    "type": "user",
+                    "indices": [5, 8]
+                }],
+                "timeZoneOffset": -360,
+                "venue": {
+                    "id": "4b4a5b85f964a520198526e3",
+                    "name": "Aeropuerto Internacional Juan Santamaría (SJO)",
+                    "contact": {
+                        "phone": "+50624372400",
+                        "formattedPhone": "+506 2437 2400"
+                    },
+                    "location": {
+                        "address": "Ruta Nacional 1",
+                        "crossStreet": "Autopista General Cañas",
+                        "lat": 9.998330791849163,
+                        "lng": -84.20419692993164,
+                        "postalCode": "20101",
+                        "cc": "CR",
+                        "city": "Alajuela",
+                        "state": "Alajuela",
+                        "country": "Costa Rica",
+                        "formattedAddress": ["Ruta Nacional 1 (Autopista General Cañas)", "20101 Alajuela", "Costa Rica"]
+                    },
+                    "categories": [{
+                        "id": "4bf58dd8d48988d1ed931735",
+                        "name": "Airport",
+                        "pluralName": "Airports",
+                        "shortName": "Airport",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/airport_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }],
+                    "verified": false,
+                    "stats": {
+                        "checkinsCount": 84220,
+                        "usersCount": 29134,
+                        "tipCount": 420
+                    },
+                    "url": "http:\/\/www.aeris.cr",
+                    "like": false
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "like": false,
+                "photos": {
+                    "count": 0,
+                    "items": []
+                },
+                "posts": {
+                    "count": 0,
+                    "textCount": 0
+                },
+                "comments": {
+                    "count": 0
+                },
+                "source": {
+                    "name": "Swarm for iOS",
+                    "url": "https:\/\/www.swarmapp.com"
+                }
+            }]
+        }
+    }
+}
